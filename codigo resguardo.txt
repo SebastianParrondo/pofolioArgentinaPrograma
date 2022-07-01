@@ -1,0 +1,28 @@
+ <!--PRIMER SECCION-->
+    <div class="position-relative contenedor1 overflow-hidden">
+	<!--Fondo-->
+    	<figure><img src="./img/cabecera.jpeg" class="imgCabecera" alt="Imagen Principal"></figure>
+	<!--Foto-->
+	<figure>
+  		<img src="./img/foto.jpeg" class="imagen-redonda img-fluid shadow ms-5 position-absolute posImagen" alt="Imagen Principal">
+  	</figure>	
+	  <!--INFORMACION-->
+		<div class="row InfoPos mb-3">
+			<div class="col-5 ms-4">
+				<!--NOMBRE-->
+				<div><H2>Sebastián Parrondo</H2></div>
+				<!--DESCRIPCION-->
+				<div class="text-secondary"><span>Programador web Junior</span></div>
+				<!--UBICACION-->
+				<div><span class="text-secondary">El Calafate (Argentina)</span> <a href="#">Informacion de contacto</a></div>
+				<!--BOTONES-->
+				<div class="d-grid gap-2 d-md-block mt-2">
+					<a class="btn btn-primary" role="button" href="#" >Tengo interes en</a>
+					<a class="btn" role="button" href="#">Añadir Sección</a>
+					<a class="btn" role="button" href="#">Más</a>	
+				  </div>					
+			</div>
+		</div>
+	
+	
+    </div>
